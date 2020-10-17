@@ -1,5 +1,5 @@
 # Simple Pong in Python 3 for beginners
-# By @Rizzballz
+# By @rmcmillan34
 # Based on video tutorial 'Learn Python by Building Five Games'
 # https://youtu.be/XGf2GcyHPhc
 
